@@ -18,7 +18,7 @@ echo "encore mieux que lala et encore et encore plus";
 echo "encore mieux que lala et encore et encore plus";
 echo "encore mieux que lala et encore et encore plus";
 echo "encore mieux que lala et encore et encore plus";
-echo "encore mieux que lala et encore et encore plus";
+echo "encore mieux que lala et encore et encore pluskl";
 
 
 $TAB	=	array('lala','toto');	
